@@ -179,7 +179,7 @@ While feature-complete, this AutoML Agent can be continuously improved. Here are
 
 Experience the Intelligent AutoML Agent live in action:
 
-[**Launch the Streamlit App Demo**](YOUR_STREAMLIT_APP_URL_HERE) --- https://automl-agent.onrender.com
+[**Launch the Streamlit App Demo**](https://automl-agent.onrender.com)
 
 ## Contact
 
