@@ -179,11 +179,11 @@ While feature-complete, this AutoML Agent can be continuously improved. Here are
 
 Experience the Intelligent AutoML Agent live in action:
 
-[**Launch the Streamlit App Demo**](YOUR_STREAMLIT_APP_URL_HERE) ---
+[**Launch the Streamlit App Demo**](YOUR_STREAMLIT_APP_URL_HERE) --- https://automl-agent.onrender.com
 
 ## Contact
 
 I'm **Dhrumil Pawar**, the developer behind this project. I'm passionate about building intelligent systems and solving real-world problems with data science and machine learning. Feel free to connect or reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL_HERE) ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrumil-pawar/)
 
