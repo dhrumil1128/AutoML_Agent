@@ -26,7 +26,7 @@ An end-to-end automated machine learning platform built with **Streamlit** and *
 
 ## Overview
 
-The Intelligent AutoML Agent is a Streamlit web application that enables users without deep ML expertise to train, evaluate, and export machine learning models. Users upload a dataset in CSV or JSON format, select a target column, confirm the problem type, and the system handles all downstream steps automatically — preprocessing, model training with cross-validated hyperparameter tuning, evaluation, visualization, and `.pkl` export.
+The Intelligent AutoML Agent is a Streamlit web application that enables users without deep ML expertise to train, evaluate, and export machine learning models. Users upload a dataset in CSV or JSON format, select a target column, confirm the problem type, and the system handles all downstream steps automatically preprocessing, model training with cross-validated hyperparameter tuning, evaluation, visualization, and `.pkl` export.
 
 The backend ML logic resides in `automl_core.py` and the Streamlit UI and visualization layer resides in `agent.py`.
 
