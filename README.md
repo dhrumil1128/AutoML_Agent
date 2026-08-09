@@ -19,7 +19,6 @@ An end-to-end automated machine learning platform built with **Streamlit** and *
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Deployment](#deployment)
 - [License](#license)
 - [Author](#author)
 
@@ -173,7 +172,6 @@ AutoML_Agent/
     ├── agent.py               # Streamlit UI, visualizations, and session management
     ├── automl_core.py         # Preprocessing, model training, tuning, and evaluation engine
     ├── requirements.txt       # Python package dependencies
-    └── sample_automl_data.db  # Sample SQLite database (customer churn data)
 ```
 
 ---
@@ -226,24 +224,6 @@ The application opens at `http://localhost:8501`. Follow the four steps in the i
 2. **Step 2 — Configure AutoML**: Select the target column. The system infers and suggests a problem type (Classification or Regression). Confirm or override, then click **Run AutoML**.
 3. **Step 3 — Review Results**: Inspect the best model name, cross-validation score, best hyperparameters, test-set metrics, model comparison table, and diagnostic plots.
 4. **Step 4 — Download Model**: Download the serialized `.pkl` pipeline file for use in production or other Python environments.
-
----
-
-## Deployment
-
-### Streamlit Community Cloud
-1. Push the repository to GitHub.
-2. Sign in to [Streamlit Community Cloud](https://share.streamlit.io/).
-3. Click **New App**, select your repository, and set the main file path to `Main File/agent.py`.
-4. Click **Deploy**.
-
-### Render
-1. Create a new **Web Service** on [Render](https://render.com/).
-2. Connect your GitHub repository.
-3. Set the start command:
-   ```bash
-   streamlit run Main\ File/agent.py --server.port $PORT --server.address 0.0.0.0
-   ```
 
 ---
 
