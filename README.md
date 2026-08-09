@@ -5,7 +5,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.7.0-orange.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An end-to-end automated machine learning platform built with **Streamlit** and **Scikit-Learn**. It handles the complete ML pipeline — from file ingestion and preprocessing through model training, hyperparameter tuning, evaluation, and serialized model export — through an interactive browser-based interface.
+An end-to-end automated machine learning platform built with **Streamlit** and **Scikit-Learn**. It handles the complete ML pipeline from file ingestion and preprocessing through model training, hyperparameter tuning, evaluation, and serialized model export through an interactive browser based interface.
 
 ---
 
